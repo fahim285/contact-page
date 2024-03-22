@@ -1,0 +1,196 @@
+.box1{
+    background-color: black;
+    border: 1px solid black;
+    height:30px;
+}
+ul{
+    float:left;
+    color:white;
+}
+
+ul li{
+    list-style-type: none;
+    font-size:14px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100px;
+    margin-top: -10px;
+    float: left;
+    position:relative;
+    left:300%
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+h5{
+    font-weight: normal;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    left: -18%;
+    position: relative;
+    margin-top: 1px;
+    color: white;
+    margin: 7px 12px
+}
+.subbox{
+    height:50px;
+    background-color: whitesmoke;
+    border:1px solid transparent;
+}
+ol{
+    float:left;
+}
+ol li{
+    float: left;
+    width:90px;
+    position: relative;
+    left:25%;
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+} 
+ol li a{
+    text-decoration: none;
+    color:black;
+}   
+
+ol li a:hover{
+    border-bottom: 4px solid rgba(80, 5, 80, 0.829);
+}
+
+
+h2{
+    position: relative;
+    left: -61%;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 4px;
+    font-weight: bolder;
+}
+
+font{
+    color:rgba(80, 5, 80, 0.829);
+
+}
+.cover img{
+    background-size: cover;
+    height: auto;
+    width: 1328px;
+    opacity: 0.5;
+}
+.text{
+    position: absolute;
+    top:30%;
+    left: 7%;
+
+}
+h1{
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    width:460px ;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 72px;
+}
+h4{
+    position: absolute;
+    top:-4%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+form input[type="submit"]{
+    position: absolute;
+    top: 86%;
+    padding:10px;
+    text-transform: uppercase;
+    background-color:rgb(199, 46, 199) ;
+    border: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
+form input[type="submit"]:hover{
+     background-color:purple ;
+}
+.image14{
+    position: absolute;
+    left: 10%;
+    top: 100%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+
+}
+
+h6{
+    color: whitesmoke;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+    border:1px solid whitesmoke;
+    width:200px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+
+}
+
+.image14:hover{
+    box-shadow:1px 3px 9px;
+}
+
+.image16{
+    position: absolute;
+    left: 40%;
+    top: 100%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+.image16:hover{
+    box-shadow: 1px 3px 9px;
+}
+h8{
+    color:whitesmoke;
+    position: absolute;
+    left: 10%;
+    top: 55%;
+    border:1px solid whitesmoke;
+    width:200px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+.image18{
+    position: absolute;
+    left: 70%;
+    top: 100%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+}
+.image18:hover{
+    box-shadow: 1px 3px 9px
+}
+h9{
+    color:whitesmoke;
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    border:1px solid whitesmoke;
+    width:200px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+
